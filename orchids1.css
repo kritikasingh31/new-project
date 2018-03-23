@@ -1,0 +1,90 @@
+.mail{
+	font-family: sans-serif;
+	font-size: 17px;
+	margin-left: 80px;
+	margin-top: 35px;
+}
+a:link{
+	color: blue;
+	text-decoration: none;
+	font-size: 17px;
+	margin-left: 80px;
+	margin-top: -50px
+}
+.logo{
+	margin-left: 270px;
+	margin-top: -70px;
+}
+.Social{
+	margin-left: 1080px;
+	margin-top:-110px; 
+}
+.icons{
+	margin-left: 990px;
+}
+.icons1{
+	margin-left: -79px;
+	margin-top: -0px;
+}
+.icons2{
+	margin-left: -70px;
+	margin-top: -0px;
+}
+ul{
+	list-style-type: none;
+	display: block;
+
+}
+.navbar{
+	background-color: #801014;
+	height: 30px;
+	overflow: hidden;
+	margin-top: 55px;
+}
+.home{
+	margin-top: 12px;
+	margin-left: 0px;
+}
+.about{
+	margin-top:-36px;
+	margin-left: 80px;
+}
+.academics{
+   margin-top: -35px;
+   margin-left: 170px;
+}
+.campuses{
+	margin-top:-37px;
+	margin-left: 290px;
+}
+.careers{
+	margin-top:-36px ;
+	margin-left:410px ;
+}
+.events{
+	margin-left:505px;
+	margin-top: -36px;
+}
+.admission{
+	margin-left:590px ;
+	margin-top:-36px; 
+}
+.payment{
+	margin-top:-36px ;
+	margin-left:740px ;
+}
+.corner{
+	margin-top:-36px ;
+	margin-left: 920px;
+}
+li a:link{
+	text-decoration: none;
+	color:white;
+	display: inline-block;
+	padding: 14px 16px;
+}
+li a:hover{
+	background-color: #5d0c0f;
+}
+
+
