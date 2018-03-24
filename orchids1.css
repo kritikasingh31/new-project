@@ -86,5 +86,152 @@ li a:link{
 li a:hover{
 	background-color: #5d0c0f;
 }
-
-
+.container{
+	height: 650px;
+	width: 1200px;
+	z-index: 50; 
+	position: relative;
+	margin-top: 375px;
+	border-radius: 4px;
+	box-shadow: 0 2px 16px 9px rgba(0,0,0,.05);
+	background: #fff;
+}
+.heading{
+	font-family: Gloria Hallelujah,cursive;
+	font-size: 24px;
+	margin-top: 30px;
+}
+.content{
+	font-family: Gloria Hallelujah,cursive;
+	font-size: 15px;
+}
+ a.link1:link{
+	text-decoration: none;
+	color: black;
+	float: left;
+	margin-top: 30px;
+	margin-left: 75px;
+	font-family: Roboto;
+	font-size: 20px;
+}
+a.link2:link{
+	text-decoration: none;
+	color: black;
+	float: left;
+	margin-top: 65px;
+	margin-left: -176px;
+	font-family: Roboto;
+	font-size: 15px;
+}
+a.link3:link{
+	text-decoration: none;
+	color: black;
+	float: left;
+	margin-top: 30px;
+	margin-left: 150px;
+	font-family: Roboto;
+	font-size: 20px;
+}
+a.link4:link{
+	text-decoration: none;
+	color: black;
+	float: left;
+	margin-top: 68px;
+	margin-left: -220px;
+	font-family: Roboto;
+	font-size: 15px;
+}
+a.link5:link{
+	text-decoration: none;
+	color: black;
+	float: left;
+	margin-top: 145px;
+	margin-left: -667px;
+	font-family: Roboto;
+	font-size: 20px;
+}
+a.link6:link{
+	text-decoration: none;
+	color: black;
+	float: left;
+	margin-top: 180px;
+    margin-left: -668px;
+	font-family: Roboto;
+	font-size: 15px;
+}
+a.link7:link{
+	text-decoration: none;
+	color: black;
+	float: left;
+	margin-top: 140px;
+	margin-left: -279px;
+	font-family: Roboto;
+	font-size: 20px;
+}
+a.link8:link{
+	text-decoration: none;
+	color: black;
+	float: left;
+	margin-top: 180px;
+	margin-left:-275px;
+	font-family: Roboto;
+	font-size: 15px;
+}
+a.link9:link{
+	text-decoration: none;
+	color: black;
+	float: left;
+	margin-top: 245px;
+	margin-left: -665px;
+	font-family: Roboto;
+	font-size: 20px;
+}
+a.link10:link{
+	text-decoration: none;
+	color: black;
+	float: left;
+	margin-top: 285px;
+	margin-left: -665px;
+	font-family: Roboto;
+	font-size: 15px;
+}
+.form{
+	background-color:#9ede5a;
+	padding: 45px;
+	height: 470px;
+	width:350px;
+	margin-left: 820px;
+	margin-top: -290px;
+	border-radius: 8px;
+}
+input[type=text]{
+	padding: 10px;
+	color: grey;
+	border-radius: 5px;
+	width: 270px;
+	margin: 9px 0px;
+}
+select{
+	padding: 13px;
+	color: grey;
+	border-radius: 5px;
+	width: 270px;
+	margin: 10px 0px;
+}
+.enquiry{
+	color: green;
+	text-align: center;
+	margin-top: -20px;
+	font-size: 25px;
+	font-family:cursive;
+}
+input[type=submit]{
+	padding: 10px;
+	color: white;
+	border-radius: 5px;
+	width: 270px;
+	margin: 10px 0px;
+	background-color:#79b4f9;
+	border-style: none;
+	font-size: 20px;
+}
