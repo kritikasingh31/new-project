@@ -1,237 +1,149 @@
+.container{
+	margin-top: 21px;
+}
 .mail{
-	font-family: sans-serif;
-	font-size: 17px;
-	margin-left: 80px;
-	margin-top: 35px;
-}
-a:link{
-	color: blue;
-	text-decoration: none;
-	font-size: 17px;
-	margin-left: 80px;
-	margin-top: -50px
-}
-.logo{
-	margin-left: 270px;
-	margin-top: -70px;
-}
-.Social{
-	margin-left: 1080px;
-	margin-top:-110px; 
-}
-.icons{
-	margin-left: 990px;
-}
-.icons1{
-	margin-left: -79px;
-	margin-top: -0px;
-}
-.icons2{
-	margin-left: -70px;
-	margin-top: -0px;
-}
-ul{
-	list-style-type: none;
-	display: block;
+	font-family:"Helvetica Neue",Helvetica;
+	font-size: 16.5px;
+	color: #616161;
 
 }
-.navbar{
-	background-color: #801014;
-	height: 30px;
-	overflow: hidden;
-	margin-top: 55px;
+.phone{
+	font-family:"Helvetica Neue",Helvetica;
+	font-size: 16.5px;
+	color: #616161;
+
 }
-.home{
-	margin-top: 12px;
-	margin-left: 0px;
+.abc:link,.abc:visited,.abc:active,.abc:hover{
+	font-family:"Helvetica Neue",Helvetica;
+	font-size: 17.2px;
+	color: #4A90E2;
+    text-decoration: none;
 }
-.about{
-	margin-top:-36px;
-	margin-left: 80px;
+.social{
+
+	font-family:"Helvetica Neue",Helvetica;
+	margin-left:200px;
+	color: #616161;
 }
-.academics{
-   margin-top: -35px;
-   margin-left: 170px;
+.navbar-inverse{
+    background-color: #801014;
+    border-radius: 0px;
+    margin-top: 15px;
+    border:0px;
+    	
 }
-.campuses{
-	margin-top:-37px;
-	margin-left: 290px;
+.navbar-nav{
+	margin-left: 120px;
+
 }
-.careers{
-	margin-top:-36px ;
-	margin-left:410px ;
+.navbar-nav li a:hover{
+background-color: #5d0c0f!important;
 }
-.events{
-	margin-left:505px;
-	margin-top: -36px;
+
+.navbar-nav li a:link,a:visited,a:active{
+	color: white!important;
+	font-size:.8em;
+	font-family: sans-serif;
+	font-weight: 400;
+	letter-spacing: 2px;
 }
-.admission{
-	margin-left:590px ;
-	margin-top:-36px; 
+.dropdown-menu li .one:link,.one:visited,.one:active{
+	color: black!important;
 }
-.payment{
-	margin-top:-36px ;
-	margin-left:740px ;
+.dropdown-menu li .one:hover{
+	background-color: white!important;
+
 }
-.corner{
-	margin-top:-36px ;
-	margin-left: 920px;
-}
-li a:link{
-	text-decoration: none;
-	color:white;
-	display: inline-block;
-	padding: 14px 16px;
-}
-li a:hover{
-	background-color: #5d0c0f;
-}
-.container{
-	height: 650px;
-	width: 1200px;
-	z-index: 50; 
-	position: relative;
-	margin-top: 375px;
-	border-radius: 4px;
-	box-shadow: 0 2px 16px 9px rgba(0,0,0,.05);
-	background: #fff;
-}
-.heading{
-	font-family: Gloria Hallelujah,cursive;
-	font-size: 24px;
-	margin-top: 30px;
+.dropdown-menu li{
+   padding: 9px;
+   margin-left: -10px;
+   font-family: "Helvetica Neue",Helvetica;
+    letter-spacing: 2px;
+    font-size: 14px;
+    color: #616161;
 }
 .content{
-	font-family: Gloria Hallelujah,cursive;
-	font-size: 15px;
-}
- a.link1:link{
-	text-decoration: none;
-	color: black;
-	float: left;
-	margin-top: 30px;
-	margin-left: 75px;
-	font-family: Roboto;
-	font-size: 20px;
-}
-a.link2:link{
-	text-decoration: none;
-	color: black;
-	float: left;
-	margin-top: 65px;
-	margin-left: -176px;
-	font-family: Roboto;
-	font-size: 15px;
-}
-a.link3:link{
-	text-decoration: none;
-	color: black;
-	float: left;
-	margin-top: 30px;
-	margin-left: 150px;
-	font-family: Roboto;
-	font-size: 20px;
-}
-a.link4:link{
-	text-decoration: none;
-	color: black;
-	float: left;
-	margin-top: 68px;
-	margin-left: -220px;
-	font-family: Roboto;
-	font-size: 15px;
-}
-a.link5:link{
-	text-decoration: none;
-	color: black;
-	float: left;
-	margin-top: 145px;
-	margin-left: -667px;
-	font-family: Roboto;
-	font-size: 20px;
-}
-a.link6:link{
-	text-decoration: none;
-	color: black;
-	float: left;
-	margin-top: 180px;
-    margin-left: -668px;
-	font-family: Roboto;
-	font-size: 15px;
-}
-a.link7:link{
-	text-decoration: none;
-	color: black;
-	float: left;
-	margin-top: 140px;
-	margin-left: -279px;
-	font-family: Roboto;
-	font-size: 20px;
-}
-a.link8:link{
-	text-decoration: none;
-	color: black;
-	float: left;
-	margin-top: 180px;
-	margin-left:-275px;
-	font-family: Roboto;
-	font-size: 15px;
-}
-a.link9:link{
-	text-decoration: none;
-	color: black;
-	float: left;
-	margin-top: 245px;
-	margin-left: -665px;
-	font-family: Roboto;
-	font-size: 20px;
-}
-a.link10:link{
-	text-decoration: none;
-	color: black;
-	float: left;
-	margin-top: 285px;
-	margin-left: -665px;
-	font-family: Roboto;
-	font-size: 15px;
-}
-.form{
-	background-color:#9ede5a;
-	padding: 45px;
-	height: 470px;
-	width:350px;
-	margin-left: 820px;
-	margin-top: -290px;
-	border-radius: 8px;
-}
-input[type=text]{
-	padding: 10px;
-	color: grey;
-	border-radius: 5px;
-	width: 270px;
-	margin: 9px 0px;
-}
-select{
-	padding: 13px;
-	color: grey;
-	border-radius: 5px;
-	width: 270px;
-	margin: 10px 0px;
+	position: relative;
+	z-index: 1;
+	box-shadow: 0 2px 16px 9px rgba(0,0,0,.05);
+	background-color: white;
+	margin-top: 380px;
+	border-radius: 4px;
+	height: 500px;
+	width:1100px;
+	margin-left: 130px;
 }
 .enquiry{
-	color: green;
+	font-family: 'Gloria Hallelujah',cursive;
+	color: white;
 	text-align: center;
-	margin-top: -20px;
-	font-size: 25px;
-	font-family:cursive;
+	font-size: 20px;
+	margin-top: -10px;
+}
+.form{
+	width: 335px;
+	height:450px;
+	background-color: #9ede5a;
+	border-radius:4px;
+	margin-top: 15px;
+}
+input[type=text]{
+	margin-top: 20px;
+	padding: 15px;
+	width: 300px;
+	margin-left: 20px;
+	border-radius: 3px;
+	height: 40px;
+}
+#sel1 {
+	margin-top: 20px;
+	padding: 15px;
+	width: 300px;
+	margin-left: 20px;
+	border-radius: 3px;
+	height: 50px;
 }
 input[type=submit]{
+	margin-top: 20px;
 	padding: 10px;
+	width: 300px;
+	margin-left: 20px;
+	border-radius: 3px;
+	height: 45px;
 	color: white;
-	border-radius: 5px;
-	width: 270px;
-	margin: 10px 0px;
-	background-color:#79b4f9;
-	border-style: none;
+	background-color: #79b4f9;
+	border: none;
+	text-align: center;
 	font-size: 20px;
+	letter-spacing: 2px;
+	font-family: sans-serif;
+	font-weight: lighter;
+
+}
+#heading{
+	font-family:'Gloria Hallelujah',cursive;;
+	font-size: 20px;
+	margin-left: 0px;
+	margin-top: -20px;
+}
+.content1{
+	font-family:sans-serif;
+	font-size: 13.5px;
+	margin-left: 20px;
+	margin-top: 25px;
+	letter-spacing: 1px;
+}
+.content2{
+	background-color: #e16c6c;
+	height: 500px;
+	width:1500px;
+	position: absolute;
+	margin-top: -70px;
+}
+.infra{
+	font-family:'Gloria Hallelujah',cursive;;
+	font-size: 23px;
+	color: white;
+	margin-top:110px;
+	margin-left: 150px;
 }
